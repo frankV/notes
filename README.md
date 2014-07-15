@@ -13,6 +13,12 @@ notes
 
 #Flask
 
+##Scaling
+[How I Structure My Flask Applications](http://mattupstate.com/python/2013/06/26/how-i-structure-my-flask-applications.html)
+[Modular Applications with Blueprints](http://flask.pocoo.org/docs/blueprints/#blueprints)
+[Fbone, Mitsuhiko, Large app how to](https://github.com/mitsuhiko/flask/wiki/Large-app-how-to)
+[Getting bigger with Flask](http://maximebf.com/blog/2012/11/getting-bigger-with-flask/#.U8S0Oo1dVoj)
+[How To Structure Large Flask Applications](https://www.digitalocean.com/community/tutorials/how-to-structure-large-flask-applications)
 
 #JavaScript
 [JS - Must Watch Videos](https://github.com/bolshchikov/js-must-watch)
