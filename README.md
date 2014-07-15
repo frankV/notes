@@ -3,11 +3,11 @@ notes
 
 
 ##Angular.js
-(Requiring vs Browserifying Angular)[http://developer.telerik.com/featured/requiring-vs-browerifying-angular/]
+[Requiring vs Browserifying Angular](http://developer.telerik.com/featured/requiring-vs-browerifying-angular/)
 
 
 #DevOps
-(A Proper Server Naming Scheme)[http://mnx.io/blog/a-proper-server-naming-scheme/]
+[A Proper Server Naming Scheme](http://mnx.io/blog/a-proper-server-naming-scheme/)
 
 
 
@@ -15,7 +15,7 @@ notes
 
 
 #JavaScript
-(JS - Must Watch Videos)[https://github.com/bolshchikov/js-must-watch]
+[JS - Must Watch Videos](https://github.com/bolshchikov/js-must-watch)
 
 
 ##Python
