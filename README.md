@@ -1,14 +1,12 @@
 notes
 =====
 
-
 ##Angular.js
 [Requiring vs Browserifying Angular](http://developer.telerik.com/featured/requiring-vs-browerifying-angular/)
 
 
 #DevOps
 [A Proper Server Naming Scheme](http://mnx.io/blog/a-proper-server-naming-scheme/)
-
 
 
 #Flask
@@ -20,8 +18,13 @@ notes
 [Getting bigger with Flask](http://maximebf.com/blog/2012/11/getting-bigger-with-flask/#.U8S0Oo1dVoj) <br>
 [How To Structure Large Flask Applications](https://www.digitalocean.com/community/tutorials/how-to-structure-large-flask-applications) <br>
 
+
 #JavaScript
 [JS - Must Watch Videos](https://github.com/bolshchikov/js-must-watch)
+
+
+##Pelican
+[Blog With Pelican and Nginx](http://michael.lustfield.net/nginx/blog-with-pelican-and-nginx)
 
 
 ##Python
