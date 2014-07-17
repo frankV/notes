@@ -5,6 +5,9 @@ notes
 [Requiring vs Browserifying Angular](http://developer.telerik.com/featured/requiring-vs-browerifying-angular/)
 
 
+##API Design
+[the spark](http://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm)
+
 #DevOps
 [A Proper Server Naming Scheme](http://mnx.io/blog/a-proper-server-naming-scheme/)
 
@@ -28,3 +31,5 @@ notes
 
 
 ##Python
+
+
