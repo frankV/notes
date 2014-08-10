@@ -30,10 +30,10 @@ notes
 [JS - Must Watch Videos](https://github.com/bolshchikov/js-must-watch)
 
 
-##Pelican
+#Pelican
 [Blog With Pelican and Nginx](http://michael.lustfield.net/nginx/blog-with-pelican-and-nginx)
 
 
-##Python
-
+#Python
+[Fast and Easy Levenshtein Distance Using a Trie](http://stevehanov.ca/blog/index.php?id=114)
 
