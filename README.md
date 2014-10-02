@@ -44,6 +44,7 @@ notes
 [You Have Ruined JavaScript](http://codeofrob.com/entries/you-have-ruined-javascript.html)
 [When To Use Semicolons in JavaScript](http://www.choskim.me/when-to-use-semicolons-in-javascript/)
 [Repo for 'Learning JavaScript Design Patterns'](https://github.com/addyosmani/essential-js-design-patterns)
+[Human JavaScript](http://read.humanjavascript.com/ch01-introduction.html)
 
 #Pelican
 [Blog With Pelican and Nginx](http://michael.lustfield.net/nginx/blog-with-pelican-and-nginx)
