@@ -25,6 +25,7 @@ notes
  * [phpmyadmin on Ubuntu](https://www.digitalocean.com/community/tutorials/how-to-install-and-secure-phpmyadmin-with-nginx-on-an-ubuntu-14-04-server)
  * [Ubuntu Upstart](http://upstart.ubuntu.com/)
  * [SSH Tricks](https://serversforhackers.com/ssh-tricks/)
+ * [VirtualBox - Ultimate Ubuntu Setup Guide](http://www.lecloud.net/post/52224625343/the-ultimate-setup-guide-ubuntu-13-04-in)
 
 
 ##Flask
