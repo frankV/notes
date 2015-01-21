@@ -35,6 +35,7 @@ notes
  * [OAuth Authentication](http://blog.miguelgrinberg.com/post/oauth-authentication-with-flask)
  * [Flask + Angular Project Structure](http://stackoverflow.com/a/15144980/938865)
  * [Building Pinalytics](http://engineering.pinterest.com/post/104418761649/building-pinalytics-pinterests-data-analytics)
+ * [Implementing a RESTful Web API](http://blog.luisrei.com/articles/flaskrest.html)
 
 
 ##Scaling
