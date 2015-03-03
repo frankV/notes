@@ -15,9 +15,14 @@ notes
  * [Crafting the Perfect AngularJS Model and Making it Real Time](https://www.youtube.com/watch?v=lHbWRFpbma4)
  * ['Embular' an in depth Comparison of Ember and Angular](http://www.benlesh.com/2014/04/embular-part-1-comparing-ember-and.html)
  * [Auth in Angular: Cookies vs. Tokens](https://auth0.com/blog/2014/01/07/angularjs-authentication-with-cookies-vs-token/)
+ * [Opinionated AngularJS styleguide for teams](http://toddmotto.com/opinionated-angular-js-styleguide-for-teams/?utm_source=javascriptweekly&utm_medium=email)
+ * [Debugging AngularJS Apps from the Console](http://ionicframework.com/blog/angularjs-console/?utm_source=javascriptweekly&utm_medium=email)
 
 ##API Design
- * [the spark](http://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm)
+ * [the spark of RESTful](http://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm)
+ * 
+##Databases
+ * [Why You Still Need SQL](http://sql.learncodethehardway.org/book/introduction.html)
 
 ##DevOps
  * [A Proper Server Naming Scheme](http://mnx.io/blog/a-proper-server-naming-scheme/)
@@ -37,6 +42,8 @@ notes
  * [Building Pinalytics](http://engineering.pinterest.com/post/104418761649/building-pinalytics-pinterests-data-analytics)
  * [Implementing a RESTful Web API](http://blog.luisrei.com/articles/flaskrest.html)
  * [Flask with Celery](http://blog.miguelgrinberg.com/post/using-celery-with-flask)
+ * [RealPython - Flask by Example](https://realpython.com/blog/python/flask-by-example-part-1-project-setup/)
+ * [Advanced Concepts in Flask](http://www.syncano.com/advanced-concepts-flask/)
 
 
 ##Scaling
@@ -64,6 +71,8 @@ notes
  * [When To Use Semicolons in JavaScript](http://www.choskim.me/when-to-use-semicolons-in-javascript/)
  * [Repo for 'Learning JavaScript Design Patterns'](https://github.com/addyosmani/essential-js-design-patterns)
  * [Human JavaScript](http://read.humanjavascript.com/ch01-introduction.html)
+ * [you have ruined javascript](http://codeofrob.com/entries/you-have-ruined-javascript.html)
+ * [How to Write Highly Scalable and Maintainable JavaScript](http://www.innoarchitech.com/scalable-maintainable-javascript/)
 
 ##Pelican
  * [Blog With Pelican and Nginx](http://michael.lustfield.net/nginx/blog-with-pelican-and-nginx)
@@ -78,11 +87,14 @@ notes
  * [Short Description of Python Scoping Rules](http://stackoverflow.com/questions/291978/short-description-of-python-scoping-rules)
  * [The Python I Would Like To See - Armin Ronacher](http://lucumr.pocoo.org/2014/8/16/the-python-i-would-like-to-see/)
  * [What are killer Python tips which could make our coder lives more productive, easier and happier?](http://www.quora.com/What-are-killer-Python-tips-which-could-make-our-coder-lives-more-productive-easier-and-happier)
+ * [10 Python idioms I wish I'd learned earlier](http://prooffreaderplus.blogspot.com/2014/11/top-10-python-idioms-i-wished-id.html?m=1)
+ * [The Most Diabolical Python Antipattern](https://realpython.com/blog/python/the-most-diabolical-python-antipattern/)
 
 
 ##Business
  * [ThoughtBot Playbook](http://playbook.thoughtbot.com/)
  * [Bootstrapping a Web Hosting Company to $60 Million: Christopher Aker, CEO of Linode (Part 1)](http://www.sramanamitra.com/2014/07/08/bootstrapping-a-web-hosting-company-to-60-million-christopher-aker-ceo-of-linode-part-1/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+sramanamitra+%28Sramana+Mitra+on+Strategy%29)
+ * [ON REALLY (PROBABLY) NOT BEING AN IMPOSTOR](http://beero.ps/2014/12/28/on-really-probably-not-being-an-impostor/)
 
 ##Data Mining
  * [100+ Interesting Data Sets for Statistics](http://rs.io/100-interesting-data-sets-for-statistics/)
