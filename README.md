@@ -31,6 +31,7 @@ notes
  * [Ubuntu Upstart](http://upstart.ubuntu.com/)
  * [SSH Tricks](https://serversforhackers.com/ssh-tricks/)
  * [VirtualBox - Ultimate Ubuntu Setup Guide](http://www.lecloud.net/post/52224625343/the-ultimate-setup-guide-ubuntu-13-04-in)
+ * [True Zero Downtime HAProxy Reloads](http://engineeringblog.yelp.com/2015/04/true-zero-downtime-haproxy-reloads.html)
 
 
 ##Flask
