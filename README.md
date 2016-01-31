@@ -52,12 +52,15 @@ notes
  * [Modular Applications with Blueprints](http://flask.pocoo.org/docs/blueprints/##blueprints) <br>
  * [Fbone, Mitsuhiko, Large app how to](https://github.com/mitsuhiko/flask/wiki/Large-app-how-to) <br>
  * [Getting bigger with Flask](http://maximebf.com/blog/2012/11/getting-bigger-with-flask/##.U8S0Oo1dVoj) <br>
- * [How To Structure Large Flask Applications](https://www.digitalocean.com/community/tutorials/how-to-structure-large-flask-applications)<br>
+ * [How To Structure Large Flask Applications](https://www.digitalocean.com/community/tutorials/how-to-structure-large-flask-applications)
+ * [Demistifying Flask-SQLAlchemy](http://derrickgilland.com/posts/demystifying-flask-sqlalchemy/)
+ * [Flask-GeoAlchemy Sample Code](http://stackoverflow.com/questions/4069595/flask-with-geoalchemy-sample-code)
+ * <br>
 
 ##SQLAlchemy
  * [SQLAlchemy and you](http://lucumr.pocoo.org/2011/7/19/sqlachemy-and-you/)
  * [GeoAlchemy](http://geoalchemy-2.readthedocs.org/en/0.2.4/)
- * [Flask-GeoAlchemy Sample Code](http://stackoverflow.com/questions/4069595/flask-with-geoalchemy-sample-code)
+ * [10 Common Stumbling Blocks](http://alextechrants.blogspot.com/2013/11/10-common-stumbling-blocks-for.html)
 <br>
 
 ##MongoDB
