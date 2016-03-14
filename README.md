@@ -17,6 +17,7 @@ notes
  * [Auth in Angular: Cookies vs. Tokens](https://auth0.com/blog/2014/01/07/angularjs-authentication-with-cookies-vs-token/)
  * [Opinionated AngularJS styleguide for teams](http://toddmotto.com/opinionated-angular-js-styleguide-for-teams/?utm_source=javascriptweekly&utm_medium=email)
  * [Debugging AngularJS Apps from the Console](http://ionicframework.com/blog/angularjs-console/?utm_source=javascriptweekly&utm_medium=email)
+ * [Angular is a Design Pattern](http://blog.ionic.io/angular-is-a-design-pattern/)
 
 ##API Design
  * [the spark of RESTful](http://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm)
@@ -33,6 +34,8 @@ notes
  * [VirtualBox - Ultimate Ubuntu Setup Guide](http://www.lecloud.net/post/52224625343/the-ultimate-setup-guide-ubuntu-13-04-in)
  * [True Zero Downtime HAProxy Reloads](http://engineeringblog.yelp.com/2015/04/true-zero-downtime-haproxy-reloads.html)
 
+##Docker
+ * [Speeding up Docker build times for Python applications](http://blog.dscpl.com.au/2016/03/speeding-up-docker-build-times-for.html)
 
 ##Flask
  * [Building a blog using Flask and AngularJS Part 1](http://blog.john.mayonvolcanosoftware.com/building-a-blog-using-flask-and-angularjs-part-1/)
@@ -45,6 +48,7 @@ notes
  * [Flask with Celery](http://blog.miguelgrinberg.com/post/using-celery-with-flask)
  * [RealPython - Flask by Example](https://realpython.com/blog/python/flask-by-example-part-1-project-setup/)
  * [Advanced Concepts in Flask](http://www.syncano.com/advanced-concepts-flask/)
+ * [Understanding Contexts in Flask](http://kronosapiens.github.io/blog/2014/08/14/understanding-contexts-in-flask.html)
 
 
 ##Scaling
