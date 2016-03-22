@@ -17,6 +17,7 @@ notes
  * [Auth in Angular: Cookies vs. Tokens](https://auth0.com/blog/2014/01/07/angularjs-authentication-with-cookies-vs-token/)
  * [Opinionated AngularJS styleguide for teams](http://toddmotto.com/opinionated-angular-js-styleguide-for-teams/?utm_source=javascriptweekly&utm_medium=email)
  * [Debugging AngularJS Apps from the Console](http://ionicframework.com/blog/angularjs-console/?utm_source=javascriptweekly&utm_medium=email)
+ * [Angular 2 templates: Will it parse?](http://angularjs.blogspot.com/2016/02/angular-2-templates-will-it-parse.html)
  * [Angular is a Design Pattern](http://blog.ionic.io/angular-is-a-design-pattern/)
 
 ##API Design
