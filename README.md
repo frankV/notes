@@ -22,7 +22,7 @@ notes
 
 ##API Design
  * [the spark of RESTful](http://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm)
- * 
+ 
 ##Databases
  * [Why You Still Need SQL](http://sql.learncodethehardway.org/book/introduction.html)
 
