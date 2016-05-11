@@ -50,6 +50,7 @@ notes
  * [RealPython - Flask by Example](https://realpython.com/blog/python/flask-by-example-part-1-project-setup/)
  * [Advanced Concepts in Flask](http://www.syncano.com/advanced-concepts-flask/)
  * [Understanding Contexts in Flask](http://kronosapiens.github.io/blog/2014/08/14/understanding-contexts-in-flask.html)
+ * [Render WTForm fields w/ HTML Attributes](http://flask.pocoo.org/snippets/107/)
 
 
 ##Scaling
