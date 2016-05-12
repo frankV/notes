@@ -21,7 +21,8 @@ notes
  * [Angular is a Design Pattern](http://blog.ionic.io/angular-is-a-design-pattern/)
 
 ##API Design
- * [the spark of RESTful](http://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm)
+ * [RESTful - Dissertation](http://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm)
+ * [The web of names, hashes and UUIDs](http://joearms.github.io/2015/03/12/The_web_of_names.html)
  
 ##Databases
  * [Why You Still Need SQL](http://sql.learncodethehardway.org/book/introduction.html)
@@ -37,6 +38,7 @@ notes
 
 ##Docker
  * [Speeding up Docker build times for Python applications](http://blog.dscpl.com.au/2016/03/speeding-up-docker-build-times-for.html)
+ * [Import a Docker Container into Python](http://blog.deepgram.com/import-a-docker-container-in-python/)
 
 ##Flask
  * [Building a blog using Flask and AngularJS Part 1](http://blog.john.mayonvolcanosoftware.com/building-a-blog-using-flask-and-angularjs-part-1/)
@@ -51,7 +53,7 @@ notes
  * [Advanced Concepts in Flask](http://www.syncano.com/advanced-concepts-flask/)
  * [Understanding Contexts in Flask](http://kronosapiens.github.io/blog/2014/08/14/understanding-contexts-in-flask.html)
  * [Render WTForm fields w/ HTML Attributes](http://flask.pocoo.org/snippets/107/)
-
+ * [Create an OAuth Server](http://lepture.com/en/2013/create-oauth-server)
 
 ##Scaling
  * [How I Structure My Flask Applications](http://mattupstate.com/python/2013/06/26/how-i-structure-my-flask-applications.html) <br>
@@ -61,17 +63,15 @@ notes
  * [How To Structure Large Flask Applications](https://www.digitalocean.com/community/tutorials/how-to-structure-large-flask-applications)
  * [Demistifying Flask-SQLAlchemy](http://derrickgilland.com/posts/demystifying-flask-sqlalchemy/)
  * [Flask-GeoAlchemy Sample Code](http://stackoverflow.com/questions/4069595/flask-with-geoalchemy-sample-code)
- * <br>
+ * [Auth0 Architecture - Running In Multiple Cloud Providers And Regions](http://highscalability.com/blog/2014/12/1/auth0-architecture-running-in-multiple-cloud-providers-and-r.html)
 
 ##SQLAlchemy
  * [SQLAlchemy and you](http://lucumr.pocoo.org/2011/7/19/sqlachemy-and-you/)
  * [GeoAlchemy](http://geoalchemy-2.readthedocs.org/en/0.2.4/)
  * [10 Common Stumbling Blocks](http://alextechrants.blogspot.com/2013/11/10-common-stumbling-blocks-for.html)
-<br>
 
 ##MongoDB
  * [You Wish Mongo Wasn't Relational](http://seanhess.github.io/2012/02/01/mongodb_relational.html)
-
 
 ##JavaScript
  * [JS - Must Watch Videos](https://github.com/bolshchikov/js-must-watch)
@@ -90,7 +90,6 @@ notes
 ##Phonegap / Hybrid Mobile Apps
  * [The State of Hybrid Mobile Development](http://developer.telerik.com/featured/the-state-of-hybrid-mobile-development/)
 
-
 ##Python
  * [How to Make Python Faster Without Trying That Much](http://lukauskas.co.uk/articles/2014/02/12/how-to-make-python-faster-without-trying-that-much/)
  * [Fast and Easy Levenshtein Distance Using a Trie](http://stevehanov.ca/blog/index.php?id=114)
@@ -99,12 +98,16 @@ notes
  * [What are killer Python tips which could make our coder lives more productive, easier and happier?](http://www.quora.com/What-are-killer-Python-tips-which-could-make-our-coder-lives-more-productive-easier-and-happier)
  * [10 Python idioms I wish I'd learned earlier](http://prooffreaderplus.blogspot.com/2014/11/top-10-python-idioms-i-wished-id.html?m=1)
  * [The Most Diabolical Python Antipattern](https://realpython.com/blog/python/the-most-diabolical-python-antipattern/)
-
+ * [Python Tricks That You Can't Live Without](https://speakerdeck.com/audreyr/python-tricks-that-you-cant-live-without)
+ * [Python Wats](https://github.com/cosmologicon/pywat)
+ * [Python Design Patterns Guide](https://www.toptal.com/python/python-design-patterns)
 
 ##Business
  * [ThoughtBot Playbook](http://playbook.thoughtbot.com/)
  * [Bootstrapping a Web Hosting Company to $60 Million: Christopher Aker, CEO of Linode (Part 1)](http://www.sramanamitra.com/2014/07/08/bootstrapping-a-web-hosting-company-to-60-million-christopher-aker-ceo-of-linode-part-1/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+sramanamitra+%28Sramana+Mitra+on+Strategy%29)
  * [ON REALLY (PROBABLY) NOT BEING AN IMPOSTOR](http://beero.ps/2014/12/28/on-really-probably-not-being-an-impostor/)
+ * [HN: How to be a Good Technical Lead](https://news.ycombinator.com/item?id=10395046)
+ * [Want a Better Pitch? Watch this.](https://medium.com/firm-narrative/want-a-better-pitch-watch-this-328b95c2fd0b#.lasr2zbuk)
 
 ##Data Mining
  * [100+ Interesting Data Sets for Statistics](http://rs.io/100-interesting-data-sets-for-statistics/)
